@@ -1,0 +1,126 @@
+.side-nav{
+  background-color:#c72c41;
+  height:740px;
+  width:400px;
+
+}
+.side-nav-msg{
+  color:white;
+  text-align: center;
+  position: absolute;
+  bottom:350px;
+
+}
+.sidenav-msg2{
+  color:#c72c41;
+  text-align: center;
+}
+@media (max-width:1000px) {
+  .side-nav{
+    background-color:#c72c41;
+    height:300px;
+    width:250px;
+
+  }
+  .sidenav-msg2{
+    color:white;
+    font-family: Montserrat;
+
+    text-align: center;
+    position: relative;
+    top:100px;
+    right:30px;
+    font-size: 1.5rem;
+  }
+  .side-nav-msg-2{
+    color:white;
+    text-align: center;
+    position: absolute;
+    top:100px;
+  }
+  .login-card{
+
+    position:relative;
+
+    right:5px;
+    top:150px
+  }
+  .login1-card{
+    position:relative;
+
+    right:5px;
+    top:200px
+  }
+
+  .side-nav-msg{
+    color:white;
+    text-align: center;
+    position: relative;
+    top:30px;
+
+  }
+
+.footer{
+  position: relative;
+  top:500px;
+}
+
+}
+.side-nav-msg-21{
+  color:white;
+  text-align: center;
+  position: absolute
+  bottom:400px;
+}
+.side-nav-msg-2{
+  color:white;
+  text-align: center;
+  position: relative;
+  top:400px;
+}
+
+.login-card{
+  margin: auto;
+
+}
+.row{
+  margin-right:0px;
+}
+.link{
+  color:black;
+}
+
+
+
+.nav-link{
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 7%;
+}
+.side-nav-msg{
+  font-family: Montserrat;
+
+  font-weight: 600;
+  padding-right: 7%;
+}
+.side-nav-msg-2{
+  font-family: Montserrat;
+
+
+  padding-right: 7%;
+}
+.navbar-brand{
+  font-family: Montserrat;
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding-right: 7%;
+}
+@media (max-width:1000px) {
+
+  .top-container{
+
+    padding:90px;
+
+  }
+}
